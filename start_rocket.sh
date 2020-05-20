@@ -48,6 +48,8 @@ cp -p hi.php /data/data/com.termux/files/usr/etc
 echo " "
 cp yenoj.cow /data/data/com.termux/files/usr/share/cows
 ls
+echo ""
+clear
 bash main.sh
 cd
 clear
