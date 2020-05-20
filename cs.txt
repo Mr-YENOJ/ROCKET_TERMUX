@@ -1,1 +1,1 @@
-cowsay -f dragon gggggggg | lolcat ; php /data/data/com.termux/files/usr/etc/hi.php | lolcat
+cowsay -f yenoj gggggggg | lolcat ; php /data/data/com.termux/files/usr/etc/hi.php | lolcat
