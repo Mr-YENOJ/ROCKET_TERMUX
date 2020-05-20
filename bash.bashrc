@@ -545,4 +545,3 @@ echo ""
 sleep 1.0
 clear
 
-cowsay -f yenoj MR.YENOJ | lolcat ; php /data/data/com.termux/files/usr/etc/hi.php | lolcat
