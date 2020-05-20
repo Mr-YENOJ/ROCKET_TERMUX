@@ -22,6 +22,8 @@ read jojgt
 echo ""
 sleep 3.0
 echo ""
+termux-setup-storage
+echo ""
 bash pkg.txt
 echo ""
 clear
