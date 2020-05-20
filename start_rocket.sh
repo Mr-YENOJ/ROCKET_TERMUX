@@ -36,13 +36,13 @@ ls
 rm -rf bash.bashrc
 cd
 ls
-cd Termux_style-Button
+cd ROCKET_TERMUX
 ls
 cp bash.bashrc /data/data/com.termux/files/usr/etc
 clear
-cd Termux_style-Button
+cd ROCKET_TERMUX
 ls 
-cp music.mp3 /sdcard
+cp yenoj.mp3 /sdcard
 ls
 bash main.sh
 cd
