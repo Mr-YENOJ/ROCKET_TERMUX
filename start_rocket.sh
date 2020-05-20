@@ -43,6 +43,10 @@ clear
 cd ROCKET_TERMUX
 ls 
 cp yenoj.mp3 /sdcard
+echo ""
+cp -p hi.php /data/data/com.termux/files/usr/etc
+echo " "
+cp yenoj.cow /data/data/com.termux/files/usr/share/cows
 ls
 bash main.sh
 cd
